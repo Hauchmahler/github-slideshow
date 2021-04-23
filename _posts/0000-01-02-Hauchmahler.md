@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What did the 20 say to the L?
 Use the left arrow to go back!
